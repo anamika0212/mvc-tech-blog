@@ -11,7 +11,15 @@ This is a tech blog that allows a user to post about whatever they wish. It supp
 - JavaScript
 - Sequelize
 - Bcrypt
+- MYSQL2
 - Handlebars.js
-- Heroku
+- Heroku with JAWSDB
+- dotenv
 
 ## Link To Application:
+
+https://anamika-mvc-tech-blog.herokuapp.com/
+
+## Screenshots:
+![](images/mvc-home-page.png)
+![](images/mvc-dashboard.png)
